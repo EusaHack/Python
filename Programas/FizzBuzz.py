@@ -7,8 +7,8 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  '''
  
-def fizz_buzz (rango):
-    for number in range(1,rango+1):
+def fizz_buzz (number_end):
+    for number in range(1,number_end+1):
         if number % 3 == 0 and number % 5 == 0:
             print("fizzbuzz")
         elif number % 3 == 0:
