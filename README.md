@@ -13,3 +13,4 @@
 - :snake: [Mock Test](https://github.com/EusaHack/Python/blob/main/Programas/Report_EusaHack.pdf)
 - :snake: [Lonely Integer](https://github.com/EusaHack/Python/blob/main/Programas/Lonely_Integer.py)
 - :snake: [Diagonal Difference](https://github.com/EusaHack/Python/blob/main/Programas/Diagonal_Difference.py)
+- :snake: [Counting Sort 1](https://github.com/EusaHack/Python/blob/main/Programas/Counting_Sort_1.py)
