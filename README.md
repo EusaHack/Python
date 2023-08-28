@@ -7,3 +7,4 @@
 
 - :snake: [FIZZ BUZZ](https://github.com/EusaHack/Python/blob/main/Programas/FizzBuzz.py)
 - :snake: [Hacker Language](https://github.com/EusaHack/Python/blob/main/Programas/LenguajeHacker.py)
+- :snake: [Plus Minus](https://github.com/EusaHack/Python/blob/main/Programas/Plus_Minus.py)
