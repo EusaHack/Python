@@ -11,3 +11,4 @@
 - :snake: [Mini-Max Sum](https://github.com/EusaHack/Python/blob/main/Programas/Mini-Max_Sum.py)
 - :snake: [Time Conversion](https://github.com/EusaHack/Python/blob/main/Programas/Time_Conversion.py)
 - :snake: [Mock Test](https://github.com/EusaHack/Python/blob/main/Programas/Report_EusaHack.pdf)
+- :snake: [Lonely Integer](https://github.com/EusaHack/Python/blob/main/Programas/Lonely_Integer.py)
