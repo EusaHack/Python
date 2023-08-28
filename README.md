@@ -8,4 +8,4 @@
 - :snake: [FIZZ BUZZ](https://github.com/EusaHack/Python/blob/main/Programas/FizzBuzz.py)
 - :snake: [Hacker Language](https://github.com/EusaHack/Python/blob/main/Programas/LenguajeHacker.py)
 - :snake: [Plus Minus](https://github.com/EusaHack/Python/blob/main/Programas/Plus_Minus.py)
-- :snake: [Mini-Max Sum](https://github.com/EusaHack/Python/blob/main/Programas/Programas/Mini-Max _Sum.py)
+- :snake: [Mini-Max Sum](https://github.com/EusaHack/Python/blob/main/Programas/Programas/Mini-Max_Sum.py)
