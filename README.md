@@ -9,3 +9,4 @@
 - :snake: [Hacker Language](https://github.com/EusaHack/Python/blob/main/Programas/LenguajeHacker.py)
 - :snake: [Plus Minus](https://github.com/EusaHack/Python/blob/main/Programas/Plus_Minus.py)
 - :snake: [Mini-Max Sum](https://github.com/EusaHack/Python/blob/main/Programas/Mini-Max_Sum.py)
+- :snake: [Time Conversion](https://github.com/EusaHack/Python/blob/main/Programas/Time_Conversion.py)
