@@ -1,5 +1,5 @@
 # Python :snake:
-## ¡Bienvenidos a mi portafolio de Github! :ok_hand: Aquí podrás encontrar varios programas realizados en Python que he creado en el transcurso de mi formación como desarrollador. En este portafolio podrás encontrar diferentes tipos algoritmos.
+## ¡Bienvenidos a mi portafolio de Github! :ok_hand: Aquí podrás encontrar varios programas realizados en Python que he creado en el transcurso de mi formación como desarrollador. En este portafolio podrás encontrar diferentes tipos de algoritmos.
 ## :link: Redes :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EusaHack)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eusa/)
